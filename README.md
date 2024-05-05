@@ -32,7 +32,7 @@ I am a Data Scientist from Ireland <img src="https://media.giphy.com/media/v1.Y2
 
 - :zap: In my free time, I build tiny games for fun 🎮
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catriona-beamish-2ba56285/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:catriona.beamish@gmail.com)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catriona-beamish-2ba56285/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:catriona.beamish@gmail.com)
 
 ---
 
