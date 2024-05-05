@@ -12,10 +12,10 @@
 </div>
 
 <div id="content"  align="center">
-  <h1>
+<!--   <h1>
     hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h1> -->
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlmeHprc3B2ZmxubXFrY2t3YWYwbzJpdWFrbjNwZXhncmZ6YzF6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
@@ -24,15 +24,15 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Scientest <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmczajcxYmpmNDcwaGZtNWpnZ2d4cDdhMjc1M2xuNjZveGNiNXI2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8quAVPh0Px2RZWqlvd/giphy.gif" width="30"> from Ireland.
+I am a Data Scientist from Ireland <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szbW04YTFqN2U2ajduZDJrb3B1aGlvbXBscGc2ZDVhdGl4em5vcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T6a6WDhVRUkR0ekPvA/giphy.gif" width="30"> 
 
 - :telescope: I’m working as a Lecturer and Batch Manager on two intensive Bootcamps, one in Data Science and another in Data Analytics. I also teach SQL for Data Engineering and manage the course content for Data Science! 👩‍🔬
 
-- :seedling: Exploring more Data Engineering tools
+- :seedling: Exploring more Data Engineering tools 🧰
 
-- :zap: In my free time, I build tiny games for fun
+- :zap: In my free time, I build tiny games for fun 🎮
 
-- :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catriona-beamish-2ba56285/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:catriona.beamish@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catriona-beamish-2ba56285/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:catriona.beamish@gmail.com)
 
 ---
 
