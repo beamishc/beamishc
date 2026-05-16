@@ -24,15 +24,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Scientist from Ireland <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szbW04YTFqN2U2ajduZDJrb3B1aGlvbXBscGc2ZDVhdGl4em5vcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T6a6WDhVRUkR0ekPvA/giphy.gif" width="30"> 
+I am a Data Scientist from Ireland based in London <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szbW04YTFqN2U2ajduZDJrb3B1aGlvbXBscGc2ZDVhdGl4em5vcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T6a6WDhVRUkR0ekPvA/giphy.gif" width="30"> 
 
 - :telescope: **What do I do?**
-  - Freelancer 💻
+  - Content creation (lectures and challenges) for Data Analytics and Data Science bootcamps 💻
   - Lecturing on three intensive boot camps. Data Science, Data Analytics, and Data Engineering 👩‍🏫
-  - Managing the batches on two of those boot camps, Data Science and Data Analytics 📢
-  - Creating the course content for the Data Science boot camp! 👩‍🔬
 
 - :seedling: **What am I learning?**
+  - Taking the [AICertified](https://www.becomeaicertified.com/about) course  🤖
   - Exploring more Data Engineering tools 🧰
   - Taking the Harvard CS50x certification Introduction to Computer Science 🧑‍🎓
 
