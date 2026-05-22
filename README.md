@@ -11,34 +11,38 @@
   <img src="https://komarev.com/ghpvc/?username=beamishc&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="content"  align="center">
+<!-- <div id="content"  align="center"> -->
 <!--   <h1>
     hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> -->
-</div>
+<!-- </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlmeHprc3B2ZmxubXFrY2t3YWYwbzJpdWFrbjNwZXhncmZ6YzF6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Scientist from Ireland based in London <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szbW04YTFqN2U2ajduZDJrb3B1aGlvbXBscGc2ZDVhdGl4em5vcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T6a6WDhVRUkR0ekPvA/giphy.gif" width="30"> 
+# Hi, I'm Catriona 👋
 
-- :telescope: **What do I do?**
-  - Content creation (lectures and challenges) for Data Analytics and Data Science bootcamps 💻
-  - Lecturing on three intensive boot camps. Data Science, Data Analytics, and Data Engineering 👩‍🏫
+I'm a UK-based AI, data, and education specialist with experience building technical training, automation tooling, and applied AI/data workflows for international bootcamps.
+
+I work across:
+- Python
+- SQL
+- AI models & workflows
+- Data analytics and transformation
+- Developer education
+- Workflow automation
+- Technical product/content systems
+
+Currently building practical tools focused on AI-enabled workflows, education systems, and community management platforms.
 
 - :seedling: **What am I learning?**
   - Taking the [AICertified](https://www.becomeaicertified.com/about) course  🤖
   - Exploring more Data Engineering tools 🧰
   - Taking the Harvard CS50x certification Introduction to Computer Science 🧑‍🎓
-
-- :zap: **In my free time, I:**
-  - build tiny games for fun in both Pygame and Phaser 🎮
-  - run tabletop RPGs
-  - sleep 😴
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catriona-beamish-2ba56285/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:catriona.beamish@gmail.com)
 
